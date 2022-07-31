@@ -1,0 +1,15 @@
+pandas
+seaborn
+matplotlib
+sqlalchemy
+loguru
+networkx==2.6.3
+transformers
+wordcloud
+umap-learn
+pyLDAvis==2.1.2
+holoviews
+bokeh
+sklearn
+openai
+wandb
