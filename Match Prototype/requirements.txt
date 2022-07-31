@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+sqlalchemy
+loguru
+networkx==2.6.3
+transformers
